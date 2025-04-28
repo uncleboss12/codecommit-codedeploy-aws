@@ -1,0 +1,12 @@
+# Ignore AWS credentials and related files
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.jks
+*.aws
+*.env
+.aws/
+credentials
+config
