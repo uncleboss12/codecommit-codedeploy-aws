@@ -128,7 +128,7 @@ hooks:
  - Check the deployment status in the CodeDeploy Console.
 - If successful, the application will be deployed to the EC2 instance.
   
-### ** Test the Application:**
+### **5. Test the Application:**
 
  - ssh into the instance and verify if the application is running
    ```bash
