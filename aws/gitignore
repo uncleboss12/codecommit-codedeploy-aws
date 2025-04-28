@@ -10,3 +10,4 @@
 .aws/
 credentials
 config
+aws
